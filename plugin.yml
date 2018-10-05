@@ -1,0 +1,6 @@
+name: ExpUpParticle
+main: nlog\ExpUpParticle\Loader
+version: 1.0
+author: nlog
+api:
+  - 3.0.7
